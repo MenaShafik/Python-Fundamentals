@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Finish Python project",
+        "completed": false
+    },
+    {
+        "title": "Read a book",
+        "completed": true
+    },
+    {
+        "title": "Go for a walk",
+        "completed": false
+    }
+]
